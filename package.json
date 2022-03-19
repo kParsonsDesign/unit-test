@@ -1,0 +1,19 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greet.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "./"
+  },
+  "author": "Katherine Parsons",
+  "license": "ISC",
+  "devDependencies": {
+    "course-utilities": "^1.0.0",
+    "jest": "^27.5.1"
+  }
+}
